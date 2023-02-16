@@ -26,3 +26,4 @@ The purpose of this project is to practice Redux Toolkit and MUI
 
 ![list](./screenshots/list.png)
 ![warning](./screenshots/warning.png)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaCGM&theme=blue-green)
